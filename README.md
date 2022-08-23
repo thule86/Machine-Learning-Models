@@ -1,6 +1,6 @@
 # Mini Projects: Build machine learning models from scratch
 
-1. Project 1: Image Compression using K-means and K-medians
+1. Image Compression using K-means and K-medians
 [Link](https://github.com/thule86/Machine-Learning-Models-Built-From-Scratch/blob/main/K-MEANS:%20Image%20compression%20.ipynb)
 
 2. CUSUM Statistic 
