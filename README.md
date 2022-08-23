@@ -1,4 +1,4 @@
-Build machine learning models from scratch
+#Build machine learning models from scratch:
 
 1. K-means and K-medians
 2. CUSUM 
