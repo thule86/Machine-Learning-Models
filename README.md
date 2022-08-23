@@ -1,6 +1,8 @@
 # Build machine learning models from scratch:
 
 1. K-means and K-medians
+[Link](https://github.com/thule86/Machine-Learning-Models-Built-From-Scratch/blob/main/K-MEANS:%20Image%20compression%20.ipynb)
+
 2. CUSUM 
 3. Spectral Clustering
 4. Linear Regression and Bias-variance tradeoff
