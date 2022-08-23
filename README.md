@@ -5,3 +5,4 @@ Build machine learning models from scratch
 3. Spectral Clustering
 4. Linear Regression and Bias-variance tradeoff
 5. Medical Reconstruction using Lasso/Ridge Regression
+6. PCA for Food Consumption Project
